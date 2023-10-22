@@ -1,6 +1,6 @@
 '''
 This file contains all different classes for project.
-Banking Account: 
+Banking Account: This is basic class which contains all the parent attributes and methods.
 InterestRewardAccount: Any deposit will get addidtional 5%.
 SavingsAccount: Any withdrawl will result in reduction of 5%.
 '''
